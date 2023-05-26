@@ -14,12 +14,14 @@ a{
     color: #3c3e41;
     text-decoration: none;
 }
+
 body{
     margin: 0;
     background-color: var(--light);
     color: var(--color-text);
     font-family: 'Poppins', sans-serif;
     font-size: 15px;
+    background-image: url();
 }
 header{
     position: fixed;
@@ -50,6 +52,13 @@ header ul li{
     width: 1200px;
     max-width: 90%;
     margin: auto;
+}
+header ul li a:hover{
+    background-image: var(--gradient-bg);
+    color: white;
+    transition: 0.6s;
+    border-radius: 5px;
+
 }
 .banner{
     margin-top: 150px;

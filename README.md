@@ -1,5 +1,5 @@
 
-# Youtube Lun Dev
+# Youtube Quang Trung
 
 Free code HTML CSS Javascript and Free learning web developer 
 
@@ -8,15 +8,10 @@ Free code HTML CSS Javascript and Free learning web developer
 
 ## Image in project
 
-![Alt text](project.png "Lun Dev") 
-- [Detailed instructions on this project](https://www.youtube.com/@lundeveloper/featured)
 
 
 ## Follow me for more free codes
 
- - [Youtube Lun Dev](https://www.youtube.com/results?search_query=lun+dev)
- - [Tiktok Lun Dev](https://www.tiktok.com/@lun.dev)
- - [Website Lun Dev Web](https://lundevweb.com)
 
 
 ## Built By
@@ -28,7 +23,7 @@ This project is built and shared by
 
 ## Feedback
 
-If you have any feedback, please reach out to us at hohoang.dev@gmail.com
+If you have any feedback, please reach out to us at trungdo1234554321@gmail.com
 
 
 ## Tags
